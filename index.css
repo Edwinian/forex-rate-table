@@ -1,0 +1,18 @@
+.container {
+  border: 1px solid black;
+}
+
+.col-4 {
+  display: flex;
+  justify-content: center;
+}
+
+.head {
+  background-color: black;
+  color: white;
+  padding: 10px 0px;
+}
+
+.highlight {
+  border: 3px solid red;
+}
